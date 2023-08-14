@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harish Verma</h1>
 <h3 align="center">Dedicated Software Developer Driven by Passion and Innovation</h3>
 
-- 👨‍💻 All of my projects are available at [https://harishkv11.github.io/harish-website/](https://harishkv11.github.io/harish-website/)
+- 👨‍💻 All about me available here :  [https://harishkv11.github.io/harish-website/](https://harishkv11.github.io/harish-website/)
 
 - 💬 Ask me about **React, Spring Boot**
 
